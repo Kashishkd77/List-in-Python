@@ -1,0 +1,2 @@
+# List-in-Python
+Lists are used to store multiple items in a single variable. List is one of 4 built-in data types in Python used to store collections of data, the other 3 are Tuple, Set, and Dictionary. A list is indexed, ordered , changeable , can contain duplicate values and all other data types including tuple, dictionary , set , etc as their items. List are written with [] brackets .Here , practical demonstration of list is given (creation, accessing, slicing, deleting elements, functions, operations, list comprehensions, etc. ).
